@@ -16,7 +16,7 @@ O jogo consiste em um servidor que gerencia a lógica do jogo e um cliente que s
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/juliobossigia/flappy-bird-multiplayer.git
+   git clone https://github.com/juliobossigia/Flappy-Bird-com-RPC.git
    ```
 
 2. Instale as dependências:

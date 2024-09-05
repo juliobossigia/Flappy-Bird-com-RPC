@@ -1,4 +1,4 @@
-# Flappy Bird Multiplayer
+# Flappy Bird Distribuido usando RPC
 
 Este é um jogo Flappy Bird implementado em Python usando Pygame e RPyC para comunicação cliente-servidor.
 
